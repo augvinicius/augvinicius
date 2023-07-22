@@ -4,6 +4,6 @@
 
 <div>
   <a href="https://github.com/augvinicius">
-  <img height= "160em" widht= "140em" src="https://github-readme-stats.vercel.app/api?username=augvinicius&show_icons=true&theme=onedark&count_private=true" /> 
-  <img height= "160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=augvinicius&layout=compact&theme=onedark" />
+  <img height= "180em" widht= "140em" src="https://github-readme-stats.vercel.app/api?username=augvinicius&show_icons=true&theme=onedark&count_private=true" /> 
+  <img height= "180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=augvinicius&layout=compact&theme=onedark" />
 </div>
